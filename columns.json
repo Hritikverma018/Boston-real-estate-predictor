@@ -1,0 +1,15 @@
+[
+  "location",
+  "area_type",
+  "total_sqft",
+  "bath",
+  "balcony",
+  "size",
+  "BHK",
+  "availability",
+  "society",
+  "floor",
+  "price_per_sqft",
+  "building_age",
+  "furnishing_status"
+]

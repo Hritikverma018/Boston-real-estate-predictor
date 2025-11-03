@@ -1,0 +1,42 @@
+Feature
+Description
+Example Value
+CRIM
+Per capita crime rate by town
+0.1
+ZN
+Proportion of residential land zoned > 25,000 sqft
+18.0
+INDUS
+Proportion of non-retail business acres
+2.31
+CHAS
+Charles River dummy variable (1 = yes, 0 = no)
+0
+NOX
+Nitric oxides concentration (parts per 10 million)
+0.538
+RM
+Avg. number of rooms per dwelling
+6.575
+AGE
+% built before 1940
+65.2
+DIS
+Weighted distance to employment centers
+4.09
+RAD
+Accessibility to radial highways index
+1
+TAX
+Property-tax rate per $10,000
+296
+PTRATIO
+Pupil-teacher ratio
+15.3
+B
+1000(Bk - 0.63)^2
+396.90
+LSTAT
+% lower status of the population
+4.98
